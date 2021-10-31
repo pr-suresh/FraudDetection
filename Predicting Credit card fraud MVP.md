@@ -1,4 +1,4 @@
-##Predicting Credit card fraud
+## Predicting Credit card fraud
 
 The goal of the project is to improve the efficacy of fraudulent transaction alerts for millions of people and help businesses reduce their fraud loss and increase their revenue.
 
