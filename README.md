@@ -2,7 +2,7 @@
 
 ### Abstract
 
-The goal of this project to predict whether a transaction is a fraudulent one or not and thereby improve the efficacy of fraudulent transaction alerts for people and help businesses reduce their fraud loss and increase their revenue.  
+The goal of this project to predict whether a transaction is a fraudulent one or not and thereby improve the efficacy of fraudulent transaction alerts for people and help businesses reduce their fraud loss and increase their revenue. The dataset contains real-world e-commerce transactions with a wide range of features. 
 
 ### Data
 
