@@ -2,7 +2,7 @@
 
 ### Abstract
 
-The goal of this project to predict whether a transaction is a fraudulent one or not and thereby improve the efficacy of fraudulent transaction alerts for people and help businesses reduce their fraud loss and increase their revenue. 
+The goal of this project is to predict whether a transaction is a fraudulent one or not and thereby improve the efficacy of fraudulent transaction alerts for people and help businesses reduce their fraud loss and increase their revenue. 
 
 ### Data
 
@@ -11,7 +11,7 @@ The [dataset](https://www.kaggle.com/c/ieee-fraud-detection/data) is provided by
 *Features and Target Variables*
 
 Target: Fraud or Valid
-Features: Transaction amount, Debit vs. Credit, Product code, Timedelta and card information
+Features: Transaction amount, Debit vs. Credit, Product code, Timedelta and card information, Categorical features
 
 ### Algorithms
 
